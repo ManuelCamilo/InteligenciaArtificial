@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Trabajo practico 2 - IA.iml" filepath="$PROJECT_DIR$/Trabajo practico 2 - IA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/busqueda_heu/busqueda_heu.iml" filepath="$PROJECT_DIR$/busqueda_heu/busqueda_heu.iml" />
+    </modules>
+  </component>
+</project>
